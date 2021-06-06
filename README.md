@@ -11,12 +11,12 @@ Python 3.7
 [CUDA](https://developer.nvidia.com/cuda-10.0-download-archive) 10.0  
 BERT - Our bert model is adapted from this implementation: https://github.com/huggingface/pytorch-pretrained-BERT  
 # Descriptions
-**20-fold-data-splits** - A dir where contains data splits following .[Fan et al.].(https://www.aclweb.org/anthology/2020.acl-main.342.pdf)
+**20-fold-data-splits** - A dir where contains data splits following .[Fan et al].(https://www.aclweb.org/anthology/2020.acl-main.342.pdf)
   * ```train.pkl```: A list where contains two items. train\[0\] is a list of document and train\[1\] is a list of the correspondding emotion-cause pairs. For example, train\[0\]\[0\]="*Last week, I lost my phone where shopping, I feel sad now*", then train\[1\]\[0\]=\[(2, 1)\].  
   * ```valid.pkl```: Similar to train.pkl.  
   * ```test.pkl```: Similar to train.pkl.
   
-**10-fold-data-splits** - A dir where contains data splits following .[Xia and Ding.].(https://www.aclweb.org/anthology/2020.acl-main.342.pdf) See the paper for more details.
+**10-fold-data-splits** - A dir where contains data splits following .[Xia and Ding].(https://www.aclweb.org/anthology/2020.acl-main.342.pdf) See the paper for more details.
     
 **bert-base-chinese** - Put the download Pytorch bert model here. 
 
