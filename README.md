@@ -7,7 +7,6 @@ Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. TASLP 2021
 Please cite our paper if you use this code.  
 # Prerequisites
 Python 3.7
-
 [Pytorch](https://pytorch.org/) 1.1.0  
 [CUDA](https://developer.nvidia.com/cuda-10.0-download-archive) 10.0  
 BERT - Our bert model is adapted from this implementation: https://github.com/huggingface/pytorch-pretrained-BERT  
