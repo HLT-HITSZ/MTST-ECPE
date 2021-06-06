@@ -1,7 +1,7 @@
 # Introduction
 This repository was used in our paper:  
   
-**“Multi-task Sequence Tagging for Emotion-CausePair Extraction via Tag Distribution Refinement”**  
+**“Multi-task Sequence Tagging for Emotion-Cause Pair Extraction via Tag Distribution Refinement”**  
 Chuang Fan, Chaofa Yuan, Lin Gui, Yue Zhang, Ruifeng Xu. TASLP 2021
   
 Please cite our paper if you use this code.  
