@@ -16,7 +16,7 @@ BERT - Our bert model is adapted from this implementation: https://github.com/hu
   * ```valid.pkl```: Similar to train.pkl.  
   * ```test.pkl```: Similar to train.pkl.
   
-**10-fold-data-splits** - A dir where contains data splits following [Xia and Ding.](https://www.aclweb.org/anthology/2020.acl-main.342.pdf) See the paper for more details.
+**10-fold-data-splits** - A dir where contains data splits following [Xia and Ding.](https://www.aclweb.org/anthology/2020.acl-main.342.pdf). The data format is the same as 20-fold-data-splits.
     
 **bert-base-chinese** - Put the download Pytorch bert model here. 
 
